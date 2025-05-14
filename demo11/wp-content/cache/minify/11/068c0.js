@@ -1,0 +1,1 @@
+jQuery(function(){"use strict";jQuery("#preloader").fadeOut(500);jQuery(".preloader-bg").delay(500).fadeOut(500);var wind=jQuery(window);});

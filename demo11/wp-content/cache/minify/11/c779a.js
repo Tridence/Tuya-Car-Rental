@@ -1,0 +1,1 @@
+(function($){var bannerimgSearchslideshow=function($scope,$){jQuery('.select2').select2({minimumResultsForSearch:Infinity,});};$(window).on('elementor/frontend/init',function(){elementorFrontend.hooks.addAction('frontend/element_ready/renax-banner-slideshow.default',bannerimgSearchslideshow);});})(jQuery);
